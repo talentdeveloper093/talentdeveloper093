@@ -1,22 +1,22 @@
 <p align="center">
   <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
- <img width="200" src="https://user-images.githubusercontent.com/36894700/87100902-d335a500-c24d-11ea-868b-6e36e00f87fb.png" />
-   <img width="200" src="https://pancakeswap.finance/images/home/lunar-bunny/bunny.png" />
+  <img width="200" src="https://user-images.githubusercontent.com/36894700/87100902-d335a500-c24d-11ea-868b-6e36e00f87fb.png" />
+  <img width="200" src="https://pancakeswap.finance/images/home/lunar-bunny/bunny.png" />
 
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <a href="https://github.com/honestdeveloper930/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <a href="https://codecov.io/gh/honestdeveloper930/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/honestdeveloper930/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <a href="https://github.com/honestdeveloper930/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
@@ -32,9 +32,9 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/honestdeveloper930/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/honestdeveloper930/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
  
 </p>
@@ -167,19 +167,19 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+<a href="https://join.skype.com/invite/aBEvQXDb9Yn0" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
+<a href="https://join.skype.com/invite/aBEvQXDb9Yn0" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
+<a href="https://join.skype.com/invite/aBEvQXDb9Yn0" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
+<a href="https://join.skype.com/invite/aBEvQXDb9Yn0" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="https://join.skype.com/invite/aBEvQXDb9Yn0">
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
