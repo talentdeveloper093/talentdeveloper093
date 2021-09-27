@@ -5,8 +5,8 @@
         src="https://user-images.githubusercontent.com/36894700/87100902-d335a500-c24d-11ea-868b-6e36e00f87fb.png" />
     <img width="200" src="https://pancakeswap.finance/images/home/lunar-bunny/bunny.png" />
 
-<h2 align="center">GitHub Readme Stats</h2>
-<p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+    <h2 align="center">GitHub Readme Stats</h2>
+    <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
 <p align="center">
     <a href="https://github.com/honestdeveloper093/github-readme-stats/actions">
@@ -42,7 +42,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
 </p>
 
-</p>
+
 
 
 <p align="center">
@@ -96,38 +96,38 @@
 
 
 
-<table border="0" align="center">
-    <tr border="0">
-        <td width="50%" align="center">
+    <table border="0" align="center">
+        <tr border="0">
+            <td width="50%" align="center">
 
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
-            <br></br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-
-
-
-        </td>
-
-        <td width="50%" align="center">
-
-            <img align="center"
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
-
-        </td>
-    </tr>
-</table>
-
-<br>
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+                <br></br>
+                <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
 
+
+            </td>
+
+            <td width="50%" align="center">
+
+                <img align="center"
+                    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
+
+            </td>
+        </tr>
+    </table>
+
+    <br>
 
 
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 
